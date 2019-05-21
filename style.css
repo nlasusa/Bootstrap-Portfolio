@@ -38,6 +38,7 @@ body {
     margin-top: 50px;
     border: 1px solid black;
     font-family: "Andale Mono";
+    justify-content: justify;
 }
 
 .row1 {
@@ -45,6 +46,8 @@ body {
     margin-left: 10px;
     font-size: 30px;
     text-align: center;
+    border-bottom-style: dashed;
+    border-bottom-width: 1px;
 }
 
 .row3 {
@@ -52,6 +55,7 @@ body {
     color: #7864F6;
     text-align: center;
 }
+
 .row3:hover {
     background-color: #7864F6;
     color: white;
@@ -61,9 +65,18 @@ body {
     background-color: lightcyan;
     color: black ;
     border: none;
+    font-family: Geneva;
 }
 
 .btn:hover {
     background-color: #7864F6;
     color: white;
+}
+
+.form-group {
+    font-family: Geneva;
+}
+
+.form-check {
+    font-family: Geneva;
 }
