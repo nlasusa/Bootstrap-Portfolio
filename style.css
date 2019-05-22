@@ -79,3 +79,33 @@ body {
 .form-check {
     font-family: Geneva;
 }
+
+.carousel-caption {
+    background-color: white;
+    color: black;
+    opacity: 0.9;
+}
+
+h1 {
+    text-align: center;
+    font-size: 18px;
+}
+
+#work {
+    font-size: 14px;
+    text-align: center;
+    background-color: lightyellow;
+    border: black;
+    padding: 20px;
+}
+
+.card-footer {
+    color:  #7864F6;
+    font-size: 11px;
+    text-align: center;
+}
+
+#race {
+    font-size: 11px;
+    text-align: center;
+}
